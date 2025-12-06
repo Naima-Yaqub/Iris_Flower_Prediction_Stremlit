@@ -12,6 +12,7 @@ The app is built with Streamlit, and you can try the live version here:
 [Iris_Prediction_Streamlit_App](https://irisflowerpredictionstremlit.streamlit.app/)
 
 ## Project Structure
+```
 Iris_Flower_Prediction_Streamlit/
 │
 ├── best_model.pkl                 # Saved Logistic Regression model
@@ -21,6 +22,7 @@ Iris_Flower_Prediction_Streamlit/
 ├── virginica.jpg                  # Flower image
 ├── iris_model_training.ipynb      # Google Colab notebook (model training + comparison)
 └── README.md
+```
 
 ## How the Model Was Built
 Inside the Colab notebook:
